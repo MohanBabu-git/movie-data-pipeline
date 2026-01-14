@@ -1,4 +1,4 @@
-# Movie Data Engineering Assignment
+
 
 ## Overview
 This project implements a complete ETL pipeline that ingests movie data from CSV files,
