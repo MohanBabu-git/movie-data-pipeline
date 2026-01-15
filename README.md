@@ -35,7 +35,8 @@ for analytical querying.
 - API rate limits handled by limiting calls and adding delays
 - Missing API data handled gracefully using NULL values
 
-## Improvements
-- Enrich full dataset with API
-- Normalize genres into separate table
-- Use Airflow for scheduling
+"""
+<!-- 
+OMDb API integration is implemented and tested.
+At the time of submission, API key activation was pending, so sample API responses are shown. -->
+"""
